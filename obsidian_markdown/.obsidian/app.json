@@ -1,5 +1,9 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "obsidian_assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "tabSize": 4,
+  "showLineNumber": true,
+  "readableLineLength": true
 }
