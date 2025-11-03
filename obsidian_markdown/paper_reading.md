@@ -1,4 +1,4 @@
-
+1
 
 # [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://nvlabs.github.io/FoundationPose/)
 
@@ -14,6 +14,7 @@
 		- real-time image
 	- 输出：object pose
 	- 过程设计：
+		-![[paper_reading-2.png]]
 	- 是什么带来了提升
 	- 后续优化空间：
 	- 已有方法：
@@ -22,3 +23,6 @@
 
 
 
+# Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations
+
+![[paper_reading-3.png]]
